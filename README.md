@@ -13,7 +13,7 @@ Utilizei o "Microsoft Copilot" para gerar os textos e receitas presentes no eboo
 
 ## 🚀 Resultados
 O ebook é uma ideia simples, pratica e objetiva. Receitas simples de fazer.
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/toniink/lab-natty-or-not/blob/main/ebook%20culinaria.pdf)
 
 ## 💭 Reflexão
 Interessante a utilização de ferramentas de Inteligência Arficial (IA) para agilizar todo o processo de criação. 
