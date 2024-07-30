@@ -1,20 +1,19 @@
 # Receitas para quem não tem experiência na cozinha
 
 ## 📒 Descrição
-Este e-book contém 15 receitas fáceis que podem ser feitas de forma simples por pessoas que não tem experiencia na cozinha.
+Este e-book contém 10 receitas fáceis que podem ser feitas de forma simples por pessoas que não tem experiencia na cozinha. Foi feito de forma rápida apenas para teste prático e não está finalizado.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[Microsoft Copilot](https://www.microsoft.com/pt-br/microsoft-copilot)** para grande parte do texto presente no ebook e as imagens ilustrando os pratos prontos;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte da capa e ilustrar algumas receitas do e-book;
+- Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "Microsoft Copilot" para gerar os textos e receitas presentes no ebook e refinar as ideias propostas e gerar imagens para ilustrar alguns dos pratos. Por outro lado, o "Leonardo AI" foi usado para gerar a arte da capa. Para concluir, o conjunto foi editado no Microsoft Word, por ter mais familiaridade com a ferramenta.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
-
+O ebook é uma ideia simples, pratica e objetiva. Receitas simples de fazer.
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Interessante a utilização de ferramentas de Inteligência Arficial (IA) para agilizar todo o processo de criação. 
